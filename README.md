@@ -17,8 +17,6 @@ Tools used: Python (library: Seaborn, Matplotlib, Pandas, and Numpy)
 
 MySQL
 
-Excel
-
 Power BI
 
 
@@ -102,7 +100,7 @@ Determine the top 5 shipping carriers with the lowest average shipping costs per
 Power BI:-
 -----------
 
-![Power BI - Dashboard]
+Power BI - Dashboard
 
 In Powe Bi, build charts, graphs, and KPIs to visualize the data and understand it more interactively, along with 
 that, build some slicers to make it more user-friendly to customize the charts and graphs.
